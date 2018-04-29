@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ejb-jboss-test-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ejb-jboss-test/target/ejb-jboss-test-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
